@@ -366,7 +366,7 @@ Financial Data Analyst
 
 For questions, feedback, or collaboration opportunities:
 - GitHub: [favouritefavil](https://github.com/favouritefavil)
-- LinkedIn: [Chegwe Favour](www.linkedin.com/in/favour-chegwe)
+- LinkedIn: [Chegwe Favour](https.//linkedin.com/in/favour-chegwe)
 - Email: favourchegwec@gmail.com
 
 ---
