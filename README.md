@@ -257,30 +257,45 @@ The interactive dashboard includes:
 
 
 hr-attrition-analysis/
-│
-├── [README.md](https://github.com/user-attachments/files/24980419/README.md)                                   # Project documentation
-├── [hr_employee_attrition.sql](https://github.com/user-attachments/files/24980429/hr_employee_attrition.sql)                    # Complete SQL analysis queries
-│
-├── dashboards/
-│   ![HR_Attrition_Dashboard_Page1][View the dashboard](https://github.com/user-attachments/assets/77e60979-1b96-4e3b-9cad-65e4d5de0823)
+
+
+ [README.md](https://github.com/user-attachments/files/24980419/README.md)    
+        
+        # Project documentation
+
+[hr_employee_attrition.sql](https://github.com/user-attachments/files/24980429/hr_employee_attrition.sql)     
+        
+        # Complete SQL analysis queries
+
+
+dashboards
+
+[HR_Attrition_Dashboard_Page1][View the dashboard](https://github.com/user-attachments/assets/77e60979-1b96-4e3b-9cad-65e4d5de0823)
+
       # Overview dashboard
-│   └── ![HR_Attrition_Dashboard_Page2][View the dashboard](https://github.com/user-attachments/assets/fbb174fa-86c5-4fe9-b06b-c305c02972c3)
+      
+[HR_Attrition_Dashboard_Page2][View the dashboard](https://github.com/user-attachments/assets/fbb174fa-86c5-4fe9-b06b-c305c02972c3)
+
       # Deep dive dashboard
-│
-├── reports/
-│   ├── [HR_Attrition_Executive_Review.pptx](https://github.com/user-attachments/files/24980425/HR_Attrition_Executive_Review.pptx)    # 12-slide executive presentation
-│   └── [HR_Attrition_Detailed_Recommendations.docx](https://github.com/user-attachments/files/24980424/HR_Attrition_Detailed_Recommendations.docx)  # Comprehensive report (20+ pages)
-│
-└── data/
-    └── [data_dictionary.md](https://github.com/user-attachments/files/24980432/data_dictionary.md)                      # Dataset documentation
+
+
+ reports
+ 
+[HR_Attrition_Executive_Review.pptx](https://github.com/user-attachments/files/24980425/HR_Attrition_Executive_Review.pptx)     
+
+    # 12-slide executive presentation
+
+[HR_Attrition_Detailed_Recommendations.docx](https://github.com/user-attachments/files/24980424/HR_Attrition_Detailed_Recommendations.docx) 
+    
+    # Comprehensive report (20+ pages)
+
+
+data
+
+ [data_dictionary.md](https://github.com/user-attachments/files/24980432/data_dictionary.md)                     
+       
+        # Dataset documentation
 ```
-
-
-
-
-
-
-
 
 ## 🚀 How to Use
 
