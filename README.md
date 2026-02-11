@@ -16,7 +16,6 @@ A comprehensive data analytics project examining employee attrition patterns acr
 - [Dashboard Highlights](#dashboard-highlights)
 - [Strategic Recommendations](#strategic-recommendations)
 - [Project Files](#project-files)
-- [How to Use](#how-to-use)
 - [Key Insights](#key-insights)
 - [Business Impact](#business-impact)
 - [Contact](#contact)
@@ -297,26 +296,6 @@ data
         # Dataset documentation
 ```
 
-## 🚀 How to Use
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/favouritefavil/hr-attrition-analysis.git
-cd hr-attrition-analysis
-```
-
-### 2. Review the SQL Queries
-- Open `hr_employee_attrition.sql` to see the complete analysis
-- Queries are organized by analysis type (demographics, work factors, compensation, etc.)
-
-### 3. Examine the Dashboard
-- View the dashboard screenshots in the `dashboards/` folder
-- Interactive filters allow exploration by marital status, education level, and job level
-
-### 4. Review Deliverables
-- **Executive Presentation:** `HR_Attrition_Executive_Review.pptx` - Ready for stakeholder meetings
-- **Detailed Report:** `HR_Attrition_Detailed_Recommendations.docx` - In-depth analysis and recommendations
-
 ## 💼 Key Insights
 
 ### What Drives Attrition?
@@ -369,21 +348,6 @@ For questions, feedback, or collaboration opportunities:
 - LinkedIn:[Chegwe Favour](http://www.linkedin.com/in/favour-chegwe)
 - Email: favourchegwec@gmail.com
 
----
-
-## 📄 License
-
-This project is available for educational and portfolio purposes.
-
----
-
-## 🙏 Acknowledgments
-
-- Dataset source: [HR Analytics Dataset]
-- Analysis tools: MySQL, Power BI
-- Special thanks to the data analytics community for inspiration and best practices
-
----
 
 **⭐ If you found this project helpful, please give it a star!**
 
