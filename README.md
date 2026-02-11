@@ -252,28 +252,18 @@ The interactive dashboard includes:
 - **Investment:** $250,000 annually
 - **ROI:** 420-580% in first year
 
-## 📁 Project Files
-
-
-hr-attrition-analysis/
- [README.md](https://github.com/user-attachments/files/24980419/README.md)    
+## 📁 Project Files  
         
 
 [hr_employee_attrition.sql](https://github.com/user-attachments/files/24980429/hr_employee_attrition.sql)     
         
-dashboard
 [View the dashboard](https://github.com/user-attachments/assets/77e60979-1b96-4e3b-9cad-65e4d5de0823)
-  
-[HR_Attrition_Dashboard_Page2][View the dashboard](https://github.com/user-attachments/assets/fbb174fa-86c5-4fe9-b06b-c305c02972c3)
-
- reports
+[View the dashboard](https://github.com/user-attachments/assets/fbb174fa-86c5-4fe9-b06b-c305c02972c3)
  
 [HR_Attrition_Executive_Review.pptx](https://github.com/user-attachments/files/24980425/HR_Attrition_Executive_Review.pptx)     
 
 [HR_Attrition_Detailed_Recommendations.docx](https://github.com/user-attachments/files/24980424/HR_Attrition_Detailed_Recommendations.docx) 
-
-
-data [data_dictionary.md](https://github.com/user-attachments/files/24980432/data_dictionary.md)
+ [data_dictionary.md](https://github.com/user-attachments/files/24980432/data_dictionary.md)
 ```
 
 ## 💼 Key Insights
