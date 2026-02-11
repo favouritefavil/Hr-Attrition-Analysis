@@ -269,7 +269,8 @@ The interactive dashboard includes:
 [HR_Attrition_Detailed_Recommendations.docx](https://github.com/user-attachments/files/24980424/HR_Attrition_Detailed_Recommendations.docx) 
 
  [data_dictionary.md](https://github.com/user-attachments/files/24980432/data_dictionary.md)
-```
+
+
 
 ## 💼 Key Insights
 
