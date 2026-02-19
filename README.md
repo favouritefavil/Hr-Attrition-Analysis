@@ -1,4 +1,3 @@
-I'll
 # HR Employee Attrition Analysis 📊
 
 A comprehensive data analytics project examining employee attrition patterns across 1,470 employees, providing strategic insights and actionable recommendations to reduce turnover costs.
@@ -7,18 +6,6 @@ A comprehensive data analytics project examining employee attrition patterns acr
 ![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
 ![Analysis](https://img.shields.io/badge/Analysis-HR%20Analytics-orange)
 
-## 📋 Table of Contents
-- [Project Overview](#project-overview)
-- [Key Findings](#key-findings)
-- [Technologies Used](#technologies-used)
-- [Dataset](#dataset)
-- [Analysis Process](#analysis-process)
-- [Dashboard Highlights](#dashboard-highlights)
-- [Strategic Recommendations](#strategic-recommendations)
-- [Project Files](#project-files)
-- [Key Insights](#key-insights)
-- [Business Impact](#business-impact)
-- [Contact](#contact)
 
 ## 🎯 Project Overview
 
@@ -77,7 +64,7 @@ This project analyzes employee attrition data to identify patterns, drivers, and
 ## 🛠 Technologies Used
 
 - **SQL (MySQL):** Data cleaning, transformation, and analysis
-- **Data Visualization:** Power BI / Tableau (for dashboard creation)
+- **Data Visualization:** Power BI
 - **Microsoft PowerPoint:** Executive presentation
 - **Microsoft Word:** Detailed recommendations report
 - **GitHub:** Version control and project documentation
@@ -184,6 +171,8 @@ ORDER BY Attrition_Rate DESC;
 
 ## 📊 Dashboard Highlights
 
+[view the dashboards](https://github.com/favouritefavil/Hr-Attrition-Analysis/tree/main/hr-attrition-analysis)
+
 The interactive dashboard includes:
 
 ### Page 1: Overview & Demographics
@@ -252,26 +241,6 @@ The interactive dashboard includes:
 - **Investment:** $250,000 annually
 - **ROI:** 420-580% in first year
 
-## 📁 Project Files  
-        
-
-[hr_employee_attrition.sql](https://github.com/user-attachments/files/24980429/hr_employee_attrition.sql) 
-    
-        
-[View the dashboard](https://github.com/user-attachments/assets/77e60979-1b96-4e3b-9cad-65e4d5de0823) Page 1
-
-
-[View the dashboard](https://github.com/user-attachments/assets/fbb174fa-86c5-4fe9-b06b-c305c02972c3) Page 2
- 
-
-[HR_Attrition_Executive_Review.pptx](https://github.com/user-attachments/files/24980425/HR_Attrition_Executive_Review.pptx)     
-
-[HR_Attrition_Detailed_Recommendations.docx](https://github.com/user-attachments/files/24980424/HR_Attrition_Detailed_Recommendations.docx) 
-
- [data_dictionary.md](https://github.com/user-attachments/files/24980432/data_dictionary.md)
-
-
-
 ## 💼 Key Insights
 
 ### What Drives Attrition?
@@ -320,11 +289,16 @@ Favour Chegwe
 Financial Data Analyst
 
 For questions, feedback, or collaboration opportunities:
-- GitHub: [favouritefavil](https://github.com/favouritefavil)
-- LinkedIn:[Chegwe Favour](http://www.linkedin.com/in/favour-chegwe)
+- GitHub: [Chegwe Favour](https://github.com/favouritefavil)
+- LinkedIn: [Chegwe Favour](http://www.linkedin.com/in/favour-chegwe)
 - Email: favourchegwec@gmail.com
 
 
+---
+
 **⭐ If you found this project helpful, please give it a star!**
+
+
+---
 
 *Last Updated: January 2026*
