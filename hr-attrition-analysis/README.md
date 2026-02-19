@@ -6,19 +6,6 @@ A comprehensive data analytics project examining employee attrition patterns acr
 ![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
 ![Analysis](https://img.shields.io/badge/Analysis-HR%20Analytics-orange)
 
-## 📋 Table of Contents
-- [Project Overview](#project-overview)
-- [Key Findings](#key-findings)
-- [Technologies Used](#technologies-used)
-- [Dataset](#dataset)
-- [Analysis Process](#analysis-process)
-- [Dashboard Highlights](#dashboard-highlights)
-- [Strategic Recommendations](#strategic-recommendations)
-- [Project Files](#project-files)
-- [How to Use](#how-to-use)
-- [Key Insights](#key-insights)
-- [Business Impact](#business-impact)
-- [Contact](#contact)
 
 ## 🎯 Project Overview
 
@@ -77,7 +64,7 @@ This project analyzes employee attrition data to identify patterns, drivers, and
 ## 🛠 Technologies Used
 
 - **SQL (MySQL):** Data cleaning, transformation, and analysis
-- **Data Visualization:** Power BI / Tableau (for dashboard creation)
+- **Data Visualization:** Power BI
 - **Microsoft PowerPoint:** Executive presentation
 - **Microsoft Word:** Detailed recommendations report
 - **GitHub:** Version control and project documentation
@@ -184,6 +171,8 @@ ORDER BY Attrition_Rate DESC;
 
 ## 📊 Dashboard Highlights
 
+[view the dashboards](https://github.com/favouritefavil/Hr-Attrition-Analysis/tree/main/hr-attrition-analysis)
+
 The interactive dashboard includes:
 
 ### Page 1: Overview & Demographics
@@ -252,46 +241,6 @@ The interactive dashboard includes:
 - **Investment:** $250,000 annually
 - **ROI:** 420-580% in first year
 
-## 📁 Project Files
-
-```
-hr-attrition-analysis/
-│
-├── README.md                                    # Project documentation
-├── hr_employee_attrition.sql                    # Complete SQL analysis queries
-│
-├── dashboards/
-│   ├── HR_Attrition_Dashboard_Page1.png       # Overview dashboard
-│   └── HR_Attrition_Dashboard_Page2.png       # Deep dive dashboard
-│
-├── reports/
-│   ├── HR_Attrition_Executive_Review.pptx     # 12-slide executive presentation
-│   └── HR_Attrition_Detailed_Recommendations.docx  # Comprehensive report (20+ pages)
-│
-└── data/
-    └── data_dictionary.md                      # Dataset documentation
-```
-
-## 🚀 How to Use
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/yourusername/hr-attrition-analysis.git
-cd hr-attrition-analysis
-```
-
-### 2. Review the SQL Queries
-- Open `hr_employee_attrition.sql` to see the complete analysis
-- Queries are organized by analysis type (demographics, work factors, compensation, etc.)
-
-### 3. Examine the Dashboard
-- View the dashboard screenshots in the `dashboards/` folder
-- Interactive filters allow exploration by marital status, education level, and job level
-
-### 4. Review Deliverables
-- **Executive Presentation:** `HR_Attrition_Executive_Review.pptx` - Ready for stakeholder meetings
-- **Detailed Report:** `HR_Attrition_Detailed_Recommendations.docx` - In-depth analysis and recommendations
-
 ## 💼 Key Insights
 
 ### What Drives Attrition?
@@ -335,32 +284,20 @@ cd hr-attrition-analysis
 
 ## 📧 Contact
 
-**Project Author:** Financial Data Analyst
+**Project Author:** 
+Favour Chegwe
+Financial Data Analyst
 
 For questions, feedback, or collaboration opportunities:
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [Chegwe Favour](https://github.com/favouritefavil)
+- LinkedIn: [Chegwe Favour](http://www.linkedin.com/in/favour-chegwe)
+- Email: favourchegwec@gmail.com
 
----
-
-## 📄 License
-
-This project is available for educational and portfolio purposes.
-
----
-
-## 🙏 Acknowledgments
-
-- Dataset source: [HR Analytics Dataset]
-- Analysis tools: MySQL, Power BI
-- Special thanks to the data analytics community for inspiration and best practices
 
 ---
 
 **⭐ If you found this project helpful, please give it a star!**
 
-**🔗 Check out my other data analytics projects:** [Your Portfolio Link]
 
 ---
 
